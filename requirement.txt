@@ -1,0 +1,6 @@
+streamlit>=1.28.0
+textblob>=0.17.1
+spacy>=3.7.0
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13
+numpy>=1.24.0
