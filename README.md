@@ -26,7 +26,7 @@ python -m spacy download en_core_web_sm
 
 3. Run the application:
 ```bash
-streamlit run app.py
+streamlit run server.py
 ```
 
 ## Usage
